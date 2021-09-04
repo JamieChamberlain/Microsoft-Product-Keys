@@ -1,0 +1,24 @@
+TX9XD-98N7V-6WMQ6-BX7FG-H8Q99     Core
+   PVMJN-6DFY6-9CCP6-7BKTT-D3WVR     CoreCountrySpecific
+   3KHY7-WNT83-DGQKR-F7HPR-844BM     CoreN
+   7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH     CoreSingleLanguage
+   NW6C2-QMPVW-D7KKK-3GKT6-VCFB2     Education
+   2WH4N-8QGBV-H22JP-CT43Q-MDWWJ     EducationN
+   NPPR9-FWDCX-D2C8J-H872K-2YT43     Enterprise
+   YYVX9-NTFWV-6MDM3-9PT4T-4M68B     EnterpriseG
+   44RPN-FTY23-9VTTB-MP9BX-T84FV     EnterpriseGN
+   DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4     EnterpriseN
+   DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ     EnterpriseS                                [LTSB 2016]
+   M7XTQ-FN8P6-TTKYV-9D4CC-J462D     EnterpriseS                                [LTSC 2019]
+   QFFDN-GRT3P-VKWWX-X7T3R-8B639     EnterpriseSN                               [LTSB 2016]
+   92NFX-8DJQP-P6BBQ-THF9C-7CG2H     EnterpriseSN                               [LTSC 2019]
+   W269N-WFGWX-YVC9B-4J6C9-T83GX     Professional
+   6TP4R-GNPTD-KYYHQ-7B7DP-J447Y     ProfessionalEducation
+   YVWGF-BXNMC-HTQYQ-CPQ99-66QFC     ProfessionalEducationN
+   MH37W-N47XK-V7XM9-C7227-GCQG9     ProfessionalN
+   NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J     ProfessionalWorkstation
+   9FNHH-K3HBT-3W4TD-6383H-6XYWF     ProfessionalWorkstationN
+   7NBT4-WGBQX-MP4H7-QXFF8-YP3KX     ServerRdsh                            [Less than 1809]
+   CPWHC-NT2C7-VYW78-DHDB2-PG3GK     ServerRdsh                     [Greater or Equal 1809]
+   
+   
